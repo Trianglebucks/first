@@ -73,7 +73,7 @@ const menu = [
   },
   {
     id: 11,
-    title: "quarantine buddy",
+    title: "alarm clock dinner",
     category: "LOVE",
     price: 16.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855473/four_bharex.jpg",
@@ -81,7 +81,7 @@ const menu = [
   },
   {
     id: 12,
-    title: "quarantine buddy",
+    title: "broken eggs",
     category: "LOVE",
     price: 16.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855473/three_c3l0c4.jpg",
@@ -89,7 +89,7 @@ const menu = [
   },
   {
     id: 13,
-    title: "quarantine buddy",
+    title: "the essential meal",
     category: "YOU",
     price: 16.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855473/nine_ugy91v.jpg",
@@ -97,7 +97,7 @@ const menu = [
   },
   {
     id: 14,
-    title: "quarantine buddy",
+    title: "avocado toast",
     category: "YOU",
     price: 16.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855472/eleven_nw90ai.jpg",
@@ -105,7 +105,7 @@ const menu = [
   },
   {
     id: 15,
-    title: "quarantine buddy",
+    title: "coffee friend",
     category: "YOU",
     price: 16.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855472/fourteen_znxwmk.jpg",
@@ -113,7 +113,7 @@ const menu = [
   },
   {
     id: 16,
-    title: "quarantine buddy",
+    title: "creamy crepe",
     category: "YOU",
     price: 16.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855471/eight_tjauhk.jpg",
@@ -121,7 +121,7 @@ const menu = [
   },
   {
     id: 17,
-    title: "quarantine buddy",
+    title: "morning delight",
     category: "YOU",
     price: 16.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855471/two_cgfp3q.jpg",
@@ -129,7 +129,7 @@ const menu = [
   },
   {
     id: 18,
-    title: "quarantine buddy",
+    title: "life of pie",
     category: "YOU",
     price: 16.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855471/thirteen_tpd1mk.jpg",
